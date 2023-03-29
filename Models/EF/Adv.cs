@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
-namespace Website_DienThoai.Models.Common
+namespace Website_DienThoai.Models.EF
 {
     [Table("tb_Adv")]
     public class Adv : CommonAbstract
